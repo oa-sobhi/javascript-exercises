@@ -9,14 +9,7 @@
 
 // Add your code right below, good luck!
 
-const firstName = 'Omar';
-const lastName = 'Ahmed';
-const birthYear = 1998;
-const thisYear = 2025;
-const fullName = firstName + ' ' + lastName;
-const age = thisYear - birthYear;
 
-let greeting = 'Hello! My name is ' + firstName + ' ' + lastName + ' and I am ' + age + ' years old.';
 
 
 
